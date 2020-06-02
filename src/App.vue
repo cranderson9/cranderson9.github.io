@@ -25,7 +25,6 @@
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
           <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
           <li><a href="#services"><i class="bx bx-server"></i> Services</a></li>
-          <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>
 
         </ul>
       </nav><!-- .nav-menu -->
@@ -184,58 +183,76 @@
 
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>As a teacher, helping others and lifelong learning are very important to me. I have worked with a wide variety of students, teachers, and parents, collaborating with others from all different backgrounds toward common goals. Prior experience teaching coding to students and training teachers in educational technology combined with a coding bootcamp education allow me to write clean, efficient code and continue improving my skill sets and contributions.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Sumary</h3>
+            <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
-              <h4>Alex Smith</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <h4>Cale Anderson</h4>
+              <p><em>Innovative and deadline-driven web developer with a passion for learning new things.</em></p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>Kewaskum, Wi</li>
+                <li>(262) 707-6553</li>
+                <li>caleanderson9@gmail.com</li>
               </ul>
             </div>
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>Full Stack Web Developer Certficate </h4>
+              <h5>2020</h5>
+              <p><em>Actualize Coding Bootcamp: Chicago, Ill</em></p>
+              <p>Actualize is an intensive 18 week program focusing on full stack web development. I was challenged every day to learn and use new technologies and ideas. A lot of focus was on how to think like a developer. During my time I learned technologies and skills such as: Ruby, Ruby on Rails, JavaScript, Java, CSS, HTML, Vue.js, APIs, Visual Studio Code, Insomnia, Git/ Github,Pair programming, and Test driven development</p>
             </div>
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <h4>Bachelor of Science in Education </h4>
+              <h5>2006 - 2011</h5>
+              <p><em>Marian University: Fond du Lac, Wi</em></p>
+              <p>I learned the most current teaching practices and methods. My experience culminated with a semester long student teaching placement.</p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Elementary Teacher</h4>
+              <h5>July 2019 - Present</h5>
+              <p><em>West Bend School District, West Bend, Wi </em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Coordinated with my grade level team to deliver high quality instruction throughout the Covid-19 outbreak.</li>
+                <li>Utilized technology to personalize learning for my students so that they can all learn at their own pace. </li>
+                <li>Trained many teachers within my building on digital learning during the Covid-19 outbreak.</li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Instructional Technology Coach</h4>
+              <h5>August 2017 - July 2019</h5>
+              <p><em>West Bend School District, West Bend, Wi</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Taught coding through pair-programming to elementary and middle school age students  to help prepare them for the 21st century workforce.</li>
+                <li>Presented at state conferences on teaching coding to elementary students.</li>
+                <li>Trained new employees in best educational technology practices over a 1 year period.</li>
+                <li>Coordinated and led monthly technology training to all staff.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Elementary Teacher</h4>
+              <h5>August 2014 - August 2017</h5>
+              <p><em>West Bend School District, West Bend, Wi</em></p>
+              <ul>
+                <li>Sought new learning by being a member of a Google for Education cohort within my district.</li>
+                <li>Reviewed technology requirements for lesson-planning and curriculum development</li>
+                <li>Troubleshooted and trained fellow teachers with technology to increase comfort using it within their classroom.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Elementary Teacher</h4>
+              <h5>August 2011 - July 2014</h5>
+              <p><em>Cedarburg School District, Cedarburg, Wi</em></p>
+              <ul>
+                <li>Initiated a grant for Chromebooks for our school which inspired adoption for all classrooms within the school.</li>
+                <li>Spearheaded a committee that focused on finding ways to help our most challenging students in the school.</li>
               </ul>
             </div>
           </div>
@@ -477,79 +494,7 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row" data-aos="fade-in">
-
-          <div class="col-lg-5 d-flex align-items-stretch">
-            <div class="info">
-              <div class="address">
-                <i class="icofont-google-map"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
-              </div>
-
-              <div class="email">
-                <i class="icofont-envelope"></i>
-                <h4>Email:</h4>
-                <p>info@example.com</p>
-              </div>
-
-              <div class="phone">
-                <i class="icofont-phone"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
-              </div>
-
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
-            </div>
-
-          </div>
-
-          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="form-row">
-                <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
-                  <input type="text" name="name" class="form-control" id="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                  <div class="validate"></div>
-                </div>
-                <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
-                  <input type="email" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" />
-                  <div class="validate"></div>
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="name">Subject</label>
-                <input type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validate"></div>
-              </div>
-              <div class="form-group">
-                <label for="name">Message</label>
-                <textarea class="form-control" name="message" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
-                <div class="validate"></div>
-              </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Contact Section -->
+    
 
   </main><!-- End #main -->
 
