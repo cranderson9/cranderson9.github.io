@@ -138,41 +138,173 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Skills</h2>
+          <h2>Tech Stack</h2>
           <p></p>
           <br>
         </div>
 
         <div class="row skills-content">
 
-          <div class="col-lg-6" data-aos="fade-up">
-            <ul class="list-group">
-              <li class="list-group-item">Ruby on Rails</li>
-              <li class="list-group-item">HTML</li>
-              <li class="list-group-item">JavaScript</li>
-              <li class="list-group-item">Angular</li>
-              <li class="list-group-item">Vue.js</li>
-              <li class="list-group-item">CSS</li>
-              <li class="list-group-item">Object-Oriented Programming</li>
-            </ul>
-            
+          <div class="container">
+            <div class="row">
+              <a href="https://www.ruby-lang.org/en/"> 
+                <img
+                  id="ruby-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/ruby.png"
+                  alt="ruby-icon"
+                />
+              </a>
+              <a href="https://rubyonrails.org/">
+                <img
+                  id="rails-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/rails.png"
+                  alt="rails-icon"
+                />
+              </a>
+              <a href="https://www.javascript.com/">
+                <img
+                  id="JS-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/javascript.png"
+                  alt="javascript-icon"
+                />
+               </a>
+              <a href="https://vuejs.org/">
+                <img
+                  id="vue-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/vue.png"
+                  alt="vue-icon"
+                />
+              </a>
+              <a href="https://www.typescriptlang.org/">
+                <img
+                  id="typescript-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/typescript.png"
+                  alt="typescript-icon"
+                />
+              </a>
+              <a href="https://angular.io/">
+                <img
+                  id="angular-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/angular.png"
+                  alt="angular-icon"
+                />
+              </a>
+              <a href="https://html.com/">
+                <img
+                  id="html5-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/html5.png"
+                  alt="angular-icon"
+                />
+              </a>
+              <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+                <img
+                  id="css-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/css.png"
+                  alt="css-icon"
+                />
+              </a>
+              <a href="https://www.postgresql.org/">
+                <img
+                  id="postgreSQL-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/postgreSQL.png"
+                  alt="postgreSQL-icon"
+                />
+              </a>
+              <a href="https://getbootstrap.com/">
+                <img
+                  id="bootstrap-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/bootstrap.png"
+                  alt="bootstrap-icon"
+                />
+              </a>
+              <a href="https://materializecss.com/">
+                <img
+                  id="materialize-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/materialize.png"
+                  alt="materialize-icon"
+                />
+              </a>
+              <a href="https://git-scm.com/">
+                <img
+                  id="git-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/git.png"
+                  alt="git-icon"
+                />
+              </a>
+              <a href="https://github.com/">
+                <img
+                  id="github-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/github.png"
+                  alt="github-icon"
+                />
+              </a>
+              <a href="https://www.npmjs.com/">
+                <img
+                  id="npm-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/npm.png"
+                  alt="npm-icon"
+                />
+              </a>
 
-          </div>
-          <div class="col-lg-6" data-aos="fade-up">
-            <ul class="list-group">
-              <li class="list-group-item">TypeScript</li>
-              <li class="list-group-item">Github</li>
-              <li class="list-group-item">Java</li>
-              <li class="list-group-item">Pair Programming</li>
-              <li class="list-group-item">Bootstrap</li>
-              <li class="list-group-item">PostgreSQL</li>
-              <li class="list-group-item">Test Driven Development</li>
-            </ul>
-            
-
-          </div>
-
+              </div>
+              <div class="section-title">
+          <h2>Adding Soon</h2>
+          <h4>Always learning new things</h4>
+          <br>
         </div>
+              <div class="row">
+                <a href="https://dotnet.microsoft.com/">
+                  <img
+                    id=".net-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/net.png"
+                    alt=".net-icon"
+                  />
+                </a>
+                <a href="https://reactjs.org/">
+                  <img
+                    id="react-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/react.png"
+                    alt="react-icon"
+                  />
+                </a>
+                <a href="https://www.python.org/">
+                  <img
+                    id="python-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/python.png"
+                    alt="python-icon"
+                  />
+                </a>
+                <a href="https://www.djangoproject.com/">
+                  <img
+                    id="django-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/django.png"
+                    alt="django-icon"
+                  />
+                </a>
+
+            </div>
+          </div>
+        </div>  
+
+        
 
       </div>
     </section><!-- End Skills Section -->
