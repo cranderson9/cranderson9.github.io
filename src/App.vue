@@ -22,9 +22,9 @@
         <ul>
           <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
-          <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-          <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
-          <li><a href="#services"><i class="bx bx-server"></i> Services</a></li>
+          <li><a href="#portfolio"><i class="bx bx-book-content"></i> Projects</a></li>
+          <!-- <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li> -->
+          <li><a href="#contact"><i class="bx bx-server"></i> Contact</a></li>
 
         </ul>
       </nav><!-- .nav-menu -->
@@ -37,7 +37,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Cale Anderson</h1>
-      <p>Full Stack Web Developer/ Teacher <span class="typed" data-typed-items="Full Stack Web Developer, Teacher"></span></p>
+      <p>Full Stack Web Developer/ Father/ Teacher <span class="typed" data-typed-items="Full Stack Web Developer, Teacher"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -64,13 +64,11 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> www.example.com</li>
                   <li><i class="icofont-rounded-right"></i> <strong>City:</strong>  Kewaskum, Wi</li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Bachelors</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> caleanderson9@gmail.com</li>
                 
                 </ul>
@@ -85,53 +83,7 @@
       </div>
     </section><!-- End About Section -->
 
-    <!-- ======= Facts Section ======= -->
-    <!-- <section id="facts" class="facts">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Facts</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row no-gutters">
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
-            <div class="count-box">
-              <i class="icofont-simple-smile"></i>
-              <span data-toggle="counter-up">232</span>
-              <p><strong>Happy Clients</strong> consequuntur quae</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="count-box">
-              <i class="icofont-document-folder"></i>
-              <span data-toggle="counter-up">521</span>
-              <p><strong>Projects</strong> adipisci atque cum quia aut</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="count-box">
-              <i class="icofont-live-support"></i>
-              <span data-toggle="counter-up">1,463</span>
-              <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
-            <div class="count-box">
-              <i class="icofont-users-alt-5"></i>
-              <span data-toggle="counter-up">15</span>
-              <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section>End Facts Section -->
+    
 
     <!-- ======= Skills Section ======= -->
     <section id="skills" class="skills section-bg">
@@ -150,25 +102,22 @@
               <a href="https://www.ruby-lang.org/en/"> 
                 <img
                   id="ruby-logo"
-                  class="rounded-circle img-thumbnail"
+                  class="rounded-circle img-thumbnail float-left"
                   src="assets/img/ruby.png"
-                  alt="ruby-icon"
                 />
               </a>
               <a href="https://rubyonrails.org/">
                 <img
                   id="rails-logo"
-                  class="rounded-circle img-thumbnail"
+                  class="rounded-circle img-thumbnail float-left"
                   src="assets/img/rails.png"
-                  alt="rails-icon"
                 />
               </a>
               <a href="https://www.javascript.com/">
                 <img
                   id="JS-logo"
-                  class="rounded-circle img-thumbnail"
+                  class="rounded-circle img-thumbnail float-left"
                   src="assets/img/javascript.png"
-                  alt="javascript-icon"
                 />
                </a>
               <a href="https://vuejs.org/">
@@ -176,7 +125,6 @@
                   id="vue-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/vue.png"
-                  alt="vue-icon"
                 />
               </a>
               <a href="https://www.typescriptlang.org/">
@@ -184,7 +132,6 @@
                   id="typescript-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/typescript.png"
-                  alt="typescript-icon"
                 />
               </a>
               <a href="https://angular.io/">
@@ -192,7 +139,6 @@
                   id="angular-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/angular.png"
-                  alt="angular-icon"
                 />
               </a>
               <a href="https://html.com/">
@@ -200,7 +146,6 @@
                   id="html5-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/html5.png"
-                  alt="angular-icon"
                 />
               </a>
               <a href="https://www.w3.org/Style/CSS/Overview.en.html">
@@ -208,7 +153,6 @@
                   id="css-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/css.png"
-                  alt="css-icon"
                 />
               </a>
               <a href="https://www.postgresql.org/">
@@ -216,7 +160,6 @@
                   id="postgreSQL-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/postgreSQL.png"
-                  alt="postgreSQL-icon"
                 />
               </a>
               <a href="https://getbootstrap.com/">
@@ -224,7 +167,6 @@
                   id="bootstrap-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/bootstrap.png"
-                  alt="bootstrap-icon"
                 />
               </a>
               <a href="https://materializecss.com/">
@@ -232,7 +174,6 @@
                   id="materialize-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/materialize.png"
-                  alt="materialize-icon"
                 />
               </a>
               <a href="https://git-scm.com/">
@@ -240,7 +181,6 @@
                   id="git-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/git.png"
-                  alt="git-icon"
                 />
               </a>
               <a href="https://github.com/">
@@ -248,7 +188,6 @@
                   id="github-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/github.png"
-                  alt="github-icon"
                 />
               </a>
               <a href="https://www.npmjs.com/">
@@ -256,23 +195,21 @@
                   id="npm-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/npm.png"
-                  alt="npm-icon"
                 />
               </a>
 
               </div>
               <div class="section-title">
-          <h2>Adding Soon</h2>
-          <h4>Always learning new things</h4>
-          <br>
-        </div>
+                <h2>Adding Soon</h2>
+                <h4>Always learning new things</h4>
+                 <br>
+              </div>
               <div class="row">
                 <a href="https://dotnet.microsoft.com/">
                   <img
                     id=".net-logo"
                     class="rounded-circle img-thumbnail"
                     src="assets/img/net.png"
-                    alt=".net-icon"
                   />
                 </a>
                 <a href="https://reactjs.org/">
@@ -280,7 +217,6 @@
                     id="react-logo"
                     class="rounded-circle img-thumbnail"
                     src="assets/img/react.png"
-                    alt="react-icon"
                   />
                 </a>
                 <a href="https://www.python.org/">
@@ -288,7 +224,6 @@
                     id="python-logo"
                     class="rounded-circle img-thumbnail"
                     src="assets/img/python.png"
-                    alt="python-icon"
                   />
                 </a>
                 <a href="https://www.djangoproject.com/">
@@ -296,21 +231,55 @@
                     id="django-logo"
                     class="rounded-circle img-thumbnail"
                     src="assets/img/django.png"
-                    alt="django-icon"
                   />
                 </a>
-
             </div>
           </div>
         </div>  
-
-        
-
       </div>
     </section><!-- End Skills Section -->
 
-    <!-- ======= Resume Section ======= -->
-    <section id="resume" class="resume">
+   
+
+    <!-- ======= Project Section ======= -->
+    <section id="projects" class="projects section-bg">
+      <div class="container">
+
+        <div class="section-title" >
+          <h2 class="center">Projects</h2>
+        </div>
+          <h3>Backend Shopping App</h3>
+        <div class="row align-content-center">
+            <div class="col-md-12 ml-auto ">
+                <img
+                  src="assets/img/mini_capstone.png"  
+                  width="max-width"
+                  height="600"
+                />
+            </div>
+            <div class="row">
+              <div class="col-md-6 ml-auto">
+                <div class="description">
+                  <h4 class="info-title text-danger">Tech Stack</h4>
+                  <img class="img-stack" width="50" height="50" src="assets/img/ruby.png" alt="rails-icon" />
+                  <img class="img-stack" width="80" height="80" src="assets/img/rails.png" alt="ruby-icon" />
+                </div>
+                <div class="description">
+                  <h4 class="info-title text-info">Features</h4>
+                  <p>E-commerce app utilizing join tables, JWT authentication and a shopping cart.</p>
+                </div>
+                <a href="https://github.com/cranderson9/mini_capstone"  class="badge badge-danger">
+                GitHub
+                </a>
+              </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Projects Section -->
+
+     <!-- ======= Resume Section ======= -->
+    <!-- <section id="resume" class="resume">
       <div class="container">
 
         <div class="section-title">
@@ -391,240 +360,56 @@
         </div>
 
       </div>
-    </section><!-- End Resume Section -->
+    </section>End Resume Section -->
 
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio section-bg">
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
       <div class="container">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Contact</h2>
+          <p>Have a question or interested in working together?</p>
         </div>
 
-        <div class="row" data-aos="fade-up">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
-            </ul>
-          </div>
-        </div>
+        <div class="row" data-aos="fade-in">
 
-        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-center">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <label for="name">Your Name</label>
+                  <input type="text" name="name" class="form-control" id="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <div class="validate"></div>
+                </div>
+                <div class="form-group col-md-6">
+                  <label for="name">Your Email</label>
+                  <input type="email" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" />
+                  <div class="validate"></div>
+                </div>
               </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <div class="form-group">
+                <label for="name">Subject</label>
+                <input type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <div class="validate"></div>
               </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <div class="form-group">
+                <label for="name">Message</label>
+                <textarea class="form-control" name="message" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
+                <div class="validate"></div>
               </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <div class="mb-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
           </div>
 
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
-            <div class="icon"><i class="icofont-computer"></i></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-            <h4 class="title"><a href="">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class="icofont-earth"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="icofont-image"></i></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon"><i class="icofont-settings"></i></div>
-            <h4 class="title"><a href="">Nemo Enim</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon"><i class="icofont-tasks-alt"></i></div>
-            <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
-
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Testimonials</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="owl-carousel testimonials-carousel">
-
-          <div class="testimonial-item" data-aos="fade-up">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
-          </div>
-
-          <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
-          </div>
-
-          <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
-          </div>
-
-          <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-            <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
-          </div>
-
-          <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Testimonials Section -->
+    </section><!-- End Contact Section -->
 
     
 
@@ -634,7 +419,7 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>iPortfolio</span></strong>
+        &copy; Copyright <strong><span>Cale Anderson 2020</span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
@@ -651,4 +436,5 @@
 </template>
 
 <style>
+
 </style>
