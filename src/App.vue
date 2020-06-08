@@ -104,6 +104,8 @@
                   id="ruby-logo"
                   class="rounded-circle img-thumbnail float-left"
                   src="assets/img/ruby.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://rubyonrails.org/">
@@ -111,6 +113,8 @@
                   id="rails-logo"
                   class="rounded-circle img-thumbnail float-left"
                   src="assets/img/rails.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://www.javascript.com/">
@@ -118,6 +122,8 @@
                   id="JS-logo"
                   class="rounded-circle img-thumbnail float-left"
                   src="assets/img/javascript.png"
+                  height="200"
+                  width="200"
                 />
                </a>
               <a href="https://vuejs.org/">
@@ -125,6 +131,8 @@
                   id="vue-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/vue.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://www.typescriptlang.org/">
@@ -132,6 +140,8 @@
                   id="typescript-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/typescript.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://angular.io/">
@@ -139,6 +149,8 @@
                   id="angular-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/angular.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://html.com/">
@@ -146,6 +158,8 @@
                   id="html5-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/html5.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://www.w3.org/Style/CSS/Overview.en.html">
@@ -153,6 +167,8 @@
                   id="css-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/css.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://www.postgresql.org/">
@@ -160,6 +176,8 @@
                   id="postgreSQL-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/postgreSQL.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://getbootstrap.com/">
@@ -167,6 +185,8 @@
                   id="bootstrap-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/bootstrap.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://materializecss.com/">
@@ -174,6 +194,8 @@
                   id="materialize-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/materialize.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://git-scm.com/">
@@ -181,6 +203,8 @@
                   id="git-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/git.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://github.com/">
@@ -188,6 +212,8 @@
                   id="github-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/github.png"
+                  height="200"
+                  width="200"
                 />
               </a>
               <a href="https://www.npmjs.com/">
@@ -195,6 +221,8 @@
                   id="npm-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/npm.png"
+                  height="200"
+                  width="200"
                 />
               </a>
 
@@ -210,6 +238,8 @@
                     id=".net-logo"
                     class="rounded-circle img-thumbnail"
                     src="assets/img/net.png"
+                    height="200"
+                    width="200"
                   />
                 </a>
                 <a href="https://reactjs.org/">
@@ -217,6 +247,8 @@
                     id="react-logo"
                     class="rounded-circle img-thumbnail"
                     src="assets/img/react.png"
+                    height="200"
+                    width="200"
                   />
                 </a>
                 <a href="https://www.python.org/">
@@ -224,6 +256,8 @@
                     id="python-logo"
                     class="rounded-circle img-thumbnail"
                     src="assets/img/python.png"
+                    height="200"
+                    width="200"
                   />
                 </a>
                 <a href="https://www.djangoproject.com/">
@@ -231,6 +265,8 @@
                     id="django-logo"
                     class="rounded-circle img-thumbnail"
                     src="assets/img/django.png"
+                    height="200"
+                    width="200"
                   />
                 </a>
             </div>
@@ -248,21 +284,54 @@
         <div class="section-title" >
           <h2 class="center">Projects</h2>
         </div>
-          <h3>Backend Shopping App</h3>
-        <div class="row align-content-center">
-            <div class="col-md-12 ml-auto ">
+          <h3>Bootrax Hiking App</h3>
+        <div class="row">
+            <div class="col-md-8">
                 <img
-                  src="assets/img/mini_capstone.png"  
-                  width="max-width"
-                  height="600"
+                  src="assets/img/boottrax.png"  
+                  width="700"
+                  height="500"
                 />
             </div>
-            <div class="row">
-              <div class="col-md-6 ml-auto">
+              <div class="col-md-4 ">
                 <div class="description">
                   <h4 class="info-title text-danger">Tech Stack</h4>
-                  <img class="img-stack" width="50" height="50" src="assets/img/ruby.png" alt="rails-icon" />
-                  <img class="img-stack" width="80" height="80" src="assets/img/rails.png" alt="ruby-icon" />
+                  <img class="img-stack" width="50" height="50" src="assets/img/ruby.png"  />
+                  <img class="img-stack" width="80" height="80" src="assets/img/rails.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/vue.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/css.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/html5.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/javascript.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/bootstrap.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/postgreSQL.png"  />
+                </div>
+                <div class="description">
+                  <h4 class="info-title text-info">Features</h4>
+                  <p>App that allows the user to create an account and log the hikes that they have gone on and save pictures from their hikes. I also integrated the ability to search for a place to hike utilizing the Mapbox API. </p>
+                </div>
+                <a href="https://github.com/cranderson9/mini_capstone"  class="badge badge-danger">
+                GitHub
+                </a>
+              </div>
+        </div>
+        <br>
+        <hr/>
+        <br>
+        <h3>Backend Shopping App</h3>
+        <div class="row">
+            <div class="col-md-8">
+                <img
+                  src="assets/img/mini_capstone.png"  
+                  width="700"
+                  height="500"
+                />
+            </div>
+              <div class="col-md-4 ">
+                <div class="description">
+                  <h4 class="info-title text-danger">Tech Stack</h4>
+                  <img class="img-stack" width="50" height="50" src="assets/img/ruby.png" />
+                  <img class="img-stack" width="80" height="80" src="assets/img/rails.png" />
+                  <img class="img-stack" width="50" height="50" src="assets/img/postgreSQL.png" />
                 </div>
                 <div class="description">
                   <h4 class="info-title text-info">Features</h4>
@@ -272,7 +341,6 @@
                 GitHub
                 </a>
               </div>
-          </div>
         </div>
 
       </div>
