@@ -22,8 +22,7 @@
         <ul>
           <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
-          <li><a href="#portfolio"><i class="bx bx-book-content"></i> Projects</a></li>
-          <!-- <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li> -->
+          <li><a href="#projects"><i class="bx bx-book-content"></i> Projects</a></li>
           <li><a href="#contact"><i class="bx bx-server"></i> Contact</a></li>
 
         </ul>
@@ -309,9 +308,51 @@
                   <h4 class="info-title text-info">Features</h4>
                   <p>App that allows the user to create an account and log the hikes that they have gone on and save pictures from their hikes. I also integrated the ability to search for a place to hike utilizing the Mapbox API. </p>
                 </div>
-                <a href="https://github.com/cranderson9/mini_capstone"  class="badge badge-danger">
-                GitHub
-                </a>
+                <div class="row">
+                  <a href="https://github.com/cranderson9/capstone_boottrax_frontend"  class="badge badge-danger">
+                  GitHub frontend 
+                  </a>
+                </div>
+                <br>
+                <div class="row">
+                  <a href="https://github.com/cranderson9/Capstone-BootTrax"  class="badge badge-danger">
+                  GitHub backend
+                  </a>
+                </div>
+              </div>
+        </div>
+              <br>
+              <hr/>
+              <br>
+          <h3>This Site</h3>
+        <div class="row">
+            <div class="col-md-8">
+                <img
+                  src="assets/img/personal_site.png"  
+                  width="700"
+                  height="500"
+                />
+            </div>
+              <div class="col-md-4 ">
+                <div class="description">
+                  <h4 class="info-title text-danger">Tech Stack</h4>
+                  <img class="img-stack" width="50" height="50" src="assets/img/ruby.png"  />
+                  <img class="img-stack" width="80" height="80" src="assets/img/rails.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/vue.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/css.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/html5.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/javascript.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/bootstrap.png"  />
+                </div>
+                <div class="description">
+                  <h4 class="info-title text-info">Features</h4>
+                  <p>App that allows the user to create an account and log the hikes that they have gone on and save pictures from their hikes. I also integrated the ability to search for a place to hike utilizing the Mapbox API. </p>
+                </div>
+                <div class="row">
+                  <a href="https://github.com/cranderson9/cranderson9.github.io"  class="badge badge-danger">
+                  GitHub 
+                  </a>
+                </div>
               </div>
         </div>
         <br>
@@ -345,90 +386,6 @@
 
       </div>
     </section><!-- End Projects Section -->
-
-     <!-- ======= Resume Section ======= -->
-    <!-- <section id="resume" class="resume">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Resume</h2>
-          <p>As a teacher, helping others and lifelong learning are very important to me. I have worked with a wide variety of students, teachers, and parents, collaborating with others from all different backgrounds toward common goals. Prior experience teaching coding to students and training teachers in educational technology combined with a coding bootcamp education allow me to write clean, efficient code and continue improving my skill sets and contributions.</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Summary</h3>
-            <div class="resume-item pb-0">
-              <h4>Cale Anderson</h4>
-              <p><em>Innovative and deadline-driven web developer with a passion for learning new things.</em></p>
-              <ul>
-                <li>Kewaskum, Wi</li>
-                <li>(262) 707-6553</li>
-                <li>caleanderson9@gmail.com</li>
-              </ul>
-            </div>
-
-            <h3 class="resume-title">Education</h3>
-            <div class="resume-item">
-              <h4>Full Stack Web Developer Certficate </h4>
-              <h5>2020</h5>
-              <p><em>Actualize Coding Bootcamp: Chicago, Ill</em></p>
-              <p>Actualize is an intensive 18 week program focusing on full stack web development. I was challenged every day to learn and use new technologies and ideas. A lot of focus was on how to think like a developer. During my time I learned technologies and skills such as: Ruby, Ruby on Rails, JavaScript, Java, CSS, HTML, Vue.js, APIs, Visual Studio Code, Insomnia, Git/ Github,Pair programming, and Test driven development</p>
-            </div>
-            <div class="resume-item">
-              <h4>Bachelor of Science in Education </h4>
-              <h5>2006 - 2011</h5>
-              <p><em>Marian University: Fond du Lac, Wi</em></p>
-              <p>I learned the most current teaching practices and methods. My experience culminated with a semester long student teaching placement.</p>
-            </div>
-          </div>
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3 class="resume-title">Professional Experience</h3>
-            <div class="resume-item">
-              <h4>Elementary Teacher</h4>
-              <h5>July 2019 - Present</h5>
-              <p><em>West Bend School District, West Bend, Wi </em></p>
-              <ul>
-                <li>Coordinated with my grade level team to deliver high quality instruction throughout the Covid-19 outbreak.</li>
-                <li>Utilized technology to personalize learning for my students so that they can all learn at their own pace. </li>
-                <li>Trained many teachers within my building on digital learning during the Covid-19 outbreak.</li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Instructional Technology Coach</h4>
-              <h5>August 2017 - July 2019</h5>
-              <p><em>West Bend School District, West Bend, Wi</em></p>
-              <ul>
-                <li>Taught coding through pair-programming to elementary and middle school age students  to help prepare them for the 21st century workforce.</li>
-                <li>Presented at state conferences on teaching coding to elementary students.</li>
-                <li>Trained new employees in best educational technology practices over a 1 year period.</li>
-                <li>Coordinated and led monthly technology training to all staff.</li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Elementary Teacher</h4>
-              <h5>August 2014 - August 2017</h5>
-              <p><em>West Bend School District, West Bend, Wi</em></p>
-              <ul>
-                <li>Sought new learning by being a member of a Google for Education cohort within my district.</li>
-                <li>Reviewed technology requirements for lesson-planning and curriculum development</li>
-                <li>Troubleshooted and trained fellow teachers with technology to increase comfort using it within their classroom.</li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Elementary Teacher</h4>
-              <h5>August 2011 - July 2014</h5>
-              <p><em>Cedarburg School District, Cedarburg, Wi</em></p>
-              <ul>
-                <li>Initiated a grant for Chromebooks for our school which inspired adoption for all classrooms within the school.</li>
-                <li>Spearheaded a committee that focused on finding ways to help our most challenging students in the school.</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section>End Resume Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
