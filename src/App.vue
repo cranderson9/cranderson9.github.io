@@ -195,7 +195,6 @@
                   class="rounded-circle img-thumbnail"
                   src="assets/img/ruby-on-rails.jpeg"
                   width="105"
-                  height="105"
                 />
               </a>
               </div>
@@ -216,7 +215,7 @@
                 </a>
                 <a href="https://dotnet.microsoft.com/" target="_blank">
                   <img
-                    id=".net-logo"
+                    id="net-logo"
                     class="rounded-circle img-thumbnail"
                     src="assets/img/net.png"
                     width="105"
