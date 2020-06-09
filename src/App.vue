@@ -366,27 +366,16 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Have a question or interested in working together?</p>
+          <h5>Have a question or interested in working together?</h5>
         </div>
 
         <div class="row" data-aos="fade-in">
-
-          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-center">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="form-row">
-                
-                
-              </div>
-              
-              
-              <div class="text-center" >
-                <a href="mailto:cranderson9@gmail.com" target="_blank" class="btn btn-primary contact-button">Contact Me</button> </a>
-              </div>
-            </form>
+          <div class="col-lg-2">
           </div>
-
+          <div>
+            <a href="mailto:cranderson9@gmail.com" id="contact-button" target="_blank" class="btn btn-primary contact-button">Contact Me</a>
+          </div>
         </div>
-
       </div>
     </section><!-- End Contact Section -->
 
