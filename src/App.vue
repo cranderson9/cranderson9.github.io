@@ -283,17 +283,15 @@
                   <h4 class="info-title text-info">Features</h4>
                   <p>App that allows the user to create an account and log the hikes that they have gone on and save pictures from their hikes. I also integrated the ability to search for a place to hike utilizing the Mapbox API. </p>
                 </div>
-                <div class="row">
+
                   <a href="https://github.com/cranderson9/capstone_boottrax_frontend"  class="badge badge-danger">
                   GitHub frontend 
                   </a>
-                </div>
+                
                 <br>
-                <div class="row">
                   <a href="https://github.com/cranderson9/Capstone-BootTrax"  class="badge badge-danger">
                   GitHub backend
                   </a>
-                </div>
               </div>
         </div>
               <br>
@@ -323,11 +321,9 @@
                   <h4 class="info-title text-info">Features</h4>
                   <p>App that allows the user to create an account and log the hikes that they have gone on and save pictures from their hikes. I also integrated the ability to search for a place to hike utilizing the Mapbox API. </p>
                 </div>
-                <div class="row">
                   <a href="https://github.com/cranderson9/cranderson9.github.io"  class="badge badge-danger">
                   GitHub 
                   </a>
-                </div>
               </div>
         </div>
         <br>
