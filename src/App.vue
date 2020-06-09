@@ -217,8 +217,8 @@
                   <img
                     id="net-logo"
                     class="rounded-circle img-thumbnail"
-                    src="assets/img/net.png"
-                    width="105"
+                    src="assets/img/dotnet.svg"
+                    width="110"
                   />
                 </a>
                 <a href="https://reactjs.org/" target="_blank">
