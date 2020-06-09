@@ -197,6 +197,14 @@
                   width="105"
                 />
               </a>
+              <a href="https://www.netlify.com/" target="_blank">
+                <img
+                  id="netlify-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/netlify.png"
+                  width="105"
+                />
+              </a>
               </div>
               <br>
               <br>
@@ -311,6 +319,7 @@
                   <img class="img-stack" src="assets/img/icons8-html-5-48.png"  />
                   <img class="img-stack" src="assets/img/icons8-javascript-48.png"  />
                   <img class="img-stack" src="assets/img/icons8-bootstrap-48.png"  />
+                  <img class="img-stack" width="45" height="45" src="assets/img/netlify.png"  />
                 </div>
                 <div class="description">
                   <h4 class="info-title text-info">Features</h4>
@@ -365,33 +374,14 @@
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-center">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="form-row">
-                <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
-                  <input type="text" name="name" class="form-control" id="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                  <div class="validate"></div>
-                </div>
-                <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
-                  <input type="email" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" />
-                  <div class="validate"></div>
-                </div>
+                
+                
               </div>
-              <div class="form-group">
-                <label for="name">Subject</label>
-                <input type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validate"></div>
+              
+              
+              <div class="text-center" >
+                <a href="mailto:cranderson9@gmail.com" target="_blank" class="btn btn-primary contact-button">Contact Me</button> </a>
               </div>
-              <div class="form-group">
-                <label for="name">Message</label>
-                <textarea class="form-control" name="message" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
-                <div class="validate"></div>
-              </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
             </form>
           </div>
 
