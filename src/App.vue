@@ -53,7 +53,7 @@
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="assets/img/profile_pic.png" class="img-fluid" alt="">
+            <img id="profile-pic" src="assets/img/profile_pic.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Full Stack Web Developer &amp; Teacher</h3>
@@ -91,181 +91,156 @@
         <div class="section-title">
           <h2>Tech Stack</h2>
           <p></p>
-          <br>
         </div>
 
         <div class="row skills-content">
 
           <div class="container">
             <div class="row">
-              <a href="https://www.ruby-lang.org/en/"> 
-                <img
-                  id="ruby-logo"
-                  class="rounded-circle img-thumbnail float-left"
-                  src="assets/img/ruby.png"
-                  height="200"
-                  width="200"
-                />
-              </a>
-              <a href="https://rubyonrails.org/">
-                <img
-                  id="rails-logo"
-                  class="rounded-circle img-thumbnail float-left"
-                  src="assets/img/rails.png"
-                  height="200"
-                  width="200"
-                />
-              </a>
-              <a href="https://www.javascript.com/">
+              <a href="https://www.javascript.com/" target="_blank">
                 <img
                   id="JS-logo"
-                  class="rounded-circle img-thumbnail float-left"
-                  src="assets/img/javascript.png"
-                  height="200"
-                  width="200"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/icons8-javascript-96.png"
                 />
                </a>
-              <a href="https://vuejs.org/">
+              <a href="https://vuejs.org/" target="_blank">
                 <img
                   id="vue-logo"
                   class="rounded-circle img-thumbnail"
-                  src="assets/img/vue.png"
-                  height="200"
-                  width="200"
+                  src="assets/img/icons8-vue-js-96.png"
                 />
               </a>
-              <a href="https://www.typescriptlang.org/">
+              <a href="https://www.typescriptlang.org/" target="_blank">
                 <img
                   id="typescript-logo"
                   class="rounded-circle img-thumbnail"
-                  src="assets/img/typescript.png"
-                  height="200"
-                  width="200"
+                  src="assets/img/icons8-typescript-96.png"
                 />
               </a>
-              <a href="https://angular.io/">
+              <a href="https://angular.io/" target="_blank">
                 <img
                   id="angular-logo"
                   class="rounded-circle img-thumbnail"
-                  src="assets/img/angular.png"
-                  height="200"
-                  width="200"
+                  src="assets/img/icons8-angularjs-96.png"
                 />
               </a>
-              <a href="https://html.com/">
+              <a href="https://html.com/" target="_blank">
                 <img
                   id="html5-logo"
                   class="rounded-circle img-thumbnail"
-                  src="assets/img/html5.png"
-                  height="200"
-                  width="200"
+                  src="assets/img/icons8-html-5-96.png"
                 />
               </a>
-              <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+              <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
                 <img
                   id="css-logo"
                   class="rounded-circle img-thumbnail"
-                  src="assets/img/css.png"
-                  height="200"
-                  width="200"
+                  src="assets/img/icons8-css3-96.png"
                 />
               </a>
-              <a href="https://www.postgresql.org/">
+              <a href="https://www.postgresql.org/" target="_blank">
                 <img
                   id="postgreSQL-logo"
                   class="rounded-circle img-thumbnail"
-                  src="assets/img/postgreSQL.png"
-                  height="200"
-                  width="200"
+                  src="assets/img/icons8-postgresql-96.png"
                 />
               </a>
-              <a href="https://getbootstrap.com/">
+              <a href="https://getbootstrap.com/" target="_blank">
                 <img
                   id="bootstrap-logo"
                   class="rounded-circle img-thumbnail"
-                  src="assets/img/bootstrap.png"
-                  height="200"
-                  width="200"
+                  src="assets/img/icons8-bootstrap-96.png"
                 />
               </a>
-              <a href="https://materializecss.com/">
+              <a href="https://materializecss.com/" target="_blank">
                 <img
                   id="materialize-logo"
                   class="rounded-circle img-thumbnail"
                   src="assets/img/materialize.png"
-                  height="200"
-                  width="200"
+                  width="115"
                 />
               </a>
-              <a href="https://git-scm.com/">
+              <a href="https://git-scm.com/" target="_blank">
                 <img
                   id="git-logo"
                   class="rounded-circle img-thumbnail"
-                  src="assets/img/git.png"
-                  height="200"
-                  width="200"
+                  src="assets/img/icons8-git-96.png"
                 />
               </a>
-              <a href="https://github.com/">
+              <a href="https://github.com/" target="_blank">
                 <img
                   id="github-logo"
                   class="rounded-circle img-thumbnail"
-                  src="assets/img/github.png"
-                  height="200"
-                  width="200"
+                  src="assets/img/icons8-github-96.png"
                 />
               </a>
-              <a href="https://www.npmjs.com/">
+              <a href="https://www.npmjs.com/" target="_blank">
                 <img
                   id="npm-logo"
                   class="rounded-circle img-thumbnail"
-                  src="assets/img/npm.png"
-                  height="200"
-                  width="200"
+                  src="assets/img/icons8-npm-96.png"
                 />
               </a>
-
+              <a href="https://www.ruby-lang.org/en/" target="_blank"> 
+                <img
+                  id="ruby-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/icons8-ruby-programming-language-96.png"
+                />
+              </a>
+              <a href="https://rubyonrails.org/" target="_blank">
+                <img
+                  id="rails-logo"
+                  class="rounded-circle img-thumbnail"
+                  src="assets/img/ruby-on-rails.jpeg"
+                  width="105"
+                  height="105"
+                />
+              </a>
               </div>
-              <div class="section-title">
+              <br>
+              <br>
+              <div class="section-title" >
                 <h2>Adding Soon</h2>
                 <h4>Always learning new things</h4>
                  <br>
               </div>
               <div class="row">
-                <a href="https://dotnet.microsoft.com/">
+                <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+                  <img
+                    id="C#"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-c-sharp-logo-96.png"
+                  />
+                </a>
+                <a href="https://dotnet.microsoft.com/" target="_blank">
                   <img
                     id=".net-logo"
                     class="rounded-circle img-thumbnail"
                     src="assets/img/net.png"
-                    height="200"
-                    width="200"
+                    width="105"
                   />
                 </a>
-                <a href="https://reactjs.org/">
+                <a href="https://reactjs.org/" target="_blank">
                   <img
                     id="react-logo"
                     class="rounded-circle img-thumbnail"
-                    src="assets/img/react.png"
-                    height="200"
-                    width="200"
+                    src="assets/img/icons8-react-96.png"
                   />
                 </a>
-                <a href="https://www.python.org/">
+                <a href="https://www.python.org/" target="_blank">
                   <img
                     id="python-logo"
                     class="rounded-circle img-thumbnail"
-                    src="assets/img/python.png"
-                    height="200"
-                    width="200"
+                    src="assets/img/icons8-python-96.png"
                   />
                 </a>
-                <a href="https://www.djangoproject.com/">
+                <a href="https://www.djangoproject.com/" target="_blank">
                   <img
                     id="django-logo"
                     class="rounded-circle img-thumbnail"
-                    src="assets/img/django.png"
-                    height="200"
-                    width="200"
+                    src="assets/img/icons8-django-96.png"
                   />
                 </a>
             </div>
@@ -295,14 +270,14 @@
               <div class="col-md-4 ">
                 <div class="description">
                   <h4 class="info-title text-danger">Tech Stack</h4>
-                  <img class="img-stack" width="50" height="50" src="assets/img/ruby.png"  />
-                  <img class="img-stack" width="80" height="80" src="assets/img/rails.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/vue.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/css.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/html5.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/javascript.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/bootstrap.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/postgreSQL.png"  />
+                  <img class="img-stack" src="assets/img/icons8-ruby-programming-language-48.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/rails.png"  />
+                  <img class="img-stack" src="assets/img/icons8-vue-js-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-css3-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-html-5-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-javascript-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-bootstrap-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-postgresql-48.png"  />
                 </div>
                 <div class="description">
                   <h4 class="info-title text-info">Features</h4>
@@ -336,13 +311,13 @@
               <div class="col-md-4 ">
                 <div class="description">
                   <h4 class="info-title text-danger">Tech Stack</h4>
-                  <img class="img-stack" width="50" height="50" src="assets/img/ruby.png"  />
-                  <img class="img-stack" width="80" height="80" src="assets/img/rails.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/vue.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/css.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/html5.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/javascript.png"  />
-                  <img class="img-stack" width="50" height="50" src="assets/img/bootstrap.png"  />
+                  <img class="img-stack" src="assets/img/icons8-ruby-programming-language-48.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/rails.png"  />
+                  <img class="img-stack" src="assets/img/icons8-vue-js-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-css3-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-html-5-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-javascript-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-bootstrap-48.png"  />
                 </div>
                 <div class="description">
                   <h4 class="info-title text-info">Features</h4>
@@ -370,9 +345,9 @@
               <div class="col-md-4 ">
                 <div class="description">
                   <h4 class="info-title text-danger">Tech Stack</h4>
-                  <img class="img-stack" width="50" height="50" src="assets/img/ruby.png" />
-                  <img class="img-stack" width="80" height="80" src="assets/img/rails.png" />
-                  <img class="img-stack" width="50" height="50" src="assets/img/postgreSQL.png" />
+                  <img class="img-stack" src="assets/img/icons8-ruby-programming-language-48.png"  />
+                  <img class="img-stack" width="50" height="50" src="assets/img/rails.png"  />
+                  <img class="img-stack" src="assets/img/icons8-postgresql-48.png"  />
                 </div>
                 <div class="description">
                   <h4 class="info-title text-info">Features</h4>
