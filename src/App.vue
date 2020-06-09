@@ -262,8 +262,6 @@
             <div class="col-md-8">
                 <img
                   src="assets/img/boottrax.png"  
-                  width="700"
-                  height="500"
                 />
             </div>
               <div class="col-md-4 ">
@@ -301,8 +299,6 @@
             <div class="col-md-8">
                 <img
                   src="assets/img/personal_site.png"  
-                  width="700"
-                  height="500"
                 />
             </div>
               <div class="col-md-4 ">
@@ -333,8 +329,6 @@
             <div class="col-md-8">
                 <img
                   src="assets/img/mini_capstone.png"  
-                  width="700"
-                  height="500"
                 />
             </div>
               <div class="col-md-4 ">
