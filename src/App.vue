@@ -180,6 +180,27 @@
             </div>
             <div class="row justify-content-around center-block text-center">
               <div class="col 1.5">
+                <a href="https://www.ruby-lang.org/en/" target="_blank"> 
+                  <img
+                    id="ruby-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-ruby-programming-language-96.png"
+                  />
+                </a>
+                <h6>Ruby</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://rubyonrails.org/" target="_blank">
+                  <img
+                    id="rails-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/ruby-on-rails.jpeg"
+                    width="108"
+                  />
+                </a>
+                <h6>Ruby on Rails</h6>
+              </div>
+              <div class="col 1.5">
                 <a href="https://materializecss.com/" target="_blank">
                   <img
                     id="materialize-logo"
@@ -221,16 +242,6 @@
                 <h6>NPM</h6>
               </div>
               <div class="col 1.5">
-                <a href="https://www.ruby-lang.org/en/" target="_blank"> 
-                  <img
-                    id="ruby-logo"
-                    class="rounded-circle img-thumbnail"
-                    src="assets/img/icons8-ruby-programming-language-96.png"
-                  />
-                </a>
-                <h6>Ruby</h6>
-              </div>
-              <div class="col 1.5">
                 <a href="https://www.heroku.com" target="_blank"> 
                   <img
                     id="heroku-logo"
@@ -239,17 +250,6 @@
                   />
                 </a>
                 <h6>Heroku</h6>
-              </div>
-              <div class="col 1.5">
-                <a href="https://rubyonrails.org/" target="_blank">
-                  <img
-                    id="rails-logo"
-                    class="rounded-circle img-thumbnail"
-                    src="assets/img/ruby-on-rails.jpeg"
-                    width="108"
-                  />
-                </a>
-                <h6>Ruby on Rails</h6>
               </div>
               <div class="col 1.5">
                 <a href="https://www.netlify.com/" target="_blank">
@@ -262,7 +262,19 @@
                 </a>
                 <h6>Netlify</h6>
               </div>
-            </div>
+              </div>
+              <div class="row justify-content-around center-block text-center">
+                <div class="col 1.5">
+                <a href="https://www.heroku.com" target="_blank"> 
+                  <img
+                    id="heroku-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-sass-96.png"
+                  />
+                </a>
+                <h6>Sass</h6>
+                </div>
+              </div>
               <br>
               <br>
               <div class="section-title" >
@@ -340,7 +352,7 @@
         <div class="section-title" >
           <h2 class="center">Projects</h2>
         </div>
-          <h3>Bootrax Hiking App</h3>
+          <h3>Hiking App</h3>
         <div class="row" >
             <div class="col-md-8" id="project-pictures">
                 <img
