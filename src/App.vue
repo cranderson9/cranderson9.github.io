@@ -74,7 +74,7 @@
               </div>
             </div>
             <p>
-             I have alaways had  an interest in technolpgy but never knew exactly what area intriqued me most. It wasn't until I started teaching coding to my elementary students that it all clicked. While I love teaching and working with my students, I always felt like I was destined to do more. Learning to code has been challenging and I love the challenge. This is what attracted to me devlopment. There is always room for growth. I will never know everything and there will always be something new to learn. As a web developer, I strive to to build dynamic web applications and offer innovative solutions to complex problems. 
+             I have always had  an interest in technology but never knew exactly what area intriqued me most. It wasn't until I started teaching coding to my elementary students that it all clicked. While I love teaching and working with my students, I always felt like I was destined to do more. Learning to code has been challenging and I love the challenge. This is what attracted to me devlopment. There is always room for growth. I will never know everything and there will always be something new to learn. As a web developer, I strive to to build dynamic web applications and offer innovative solutions to complex problems. 
             </p>
           </div>
         </div>
@@ -96,116 +96,173 @@
         <div class="row skills-content">
 
           <div class="container">
-            <div class="row">
-              <a href="https://www.javascript.com/" target="_blank">
-                <img
-                  id="JS-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-javascript-96.png"
-                />
-               </a>
-              <a href="https://vuejs.org/" target="_blank">
-                <img
-                  id="vue-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-vue-js-96.png"
-                />
-              </a>
-              <a href="https://www.typescriptlang.org/" target="_blank">
-                <img
-                  id="typescript-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-typescript-96.png"
-                />
-              </a>
-              <a href="https://angular.io/" target="_blank">
-                <img
-                  id="angular-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-angularjs-96.png"
-                />
-              </a>
-              <a href="https://html.com/" target="_blank">
-                <img
-                  id="html5-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-html-5-96.png"
-                />
-              </a>
-              <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-                <img
-                  id="css-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-css3-96.png"
-                />
-              </a>
-              <a href="https://www.postgresql.org/" target="_blank">
-                <img
-                  id="postgreSQL-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-postgresql-96.png"
-                />
-              </a>
-              <a href="https://getbootstrap.com/" target="_blank">
-                <img
-                  id="bootstrap-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-bootstrap-96.png"
-                />
-              </a>
-              <a href="https://materializecss.com/" target="_blank">
-                <img
-                  id="materialize-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/materialize.png"
-                  width="115"
-                />
-              </a>
-              <a href="https://git-scm.com/" target="_blank">
-                <img
-                  id="git-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-git-96.png"
-                />
-              </a>
-              <a href="https://github.com/" target="_blank">
-                <img
-                  id="github-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-github-96.png"
-                />
-              </a>
-              <a href="https://www.npmjs.com/" target="_blank">
-                <img
-                  id="npm-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-npm-96.png"
-                />
-              </a>
-              <a href="https://www.ruby-lang.org/en/" target="_blank"> 
-                <img
-                  id="ruby-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/icons8-ruby-programming-language-96.png"
-                />
-              </a>
-              <a href="https://rubyonrails.org/" target="_blank">
-                <img
-                  id="rails-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/ruby-on-rails.jpeg"
-                  width="105"
-                />
-              </a>
-              <a href="https://www.netlify.com/" target="_blank">
-                <img
-                  id="netlify-logo"
-                  class="rounded-circle img-thumbnail"
-                  src="assets/img/netlify.png"
-                  width="105"
-                />
-              </a>
+            <div class="row  center-block text-center">
+                <div class="col 1.5">
+                  <a href="https://www.javascript.com/" target="_blank">
+                    <img
+                      id="vue-logo"
+                      class="rounded-circle img-thumbnail"
+                      src="assets/img/icons8-javascript-96.png"
+                    />
+                  </a>
+                  <h6>Javascript</h6>
+                </div>
+                <div class="col 1.5">
+                  <a href="https://vuejs.org/" target="_blank">
+                    <img
+                      id="vue-logo"
+                      class="rounded-circle img-thumbnail"
+                      src="assets/img/icons8-vue-js-96.png"
+                    />
+                  </a>
+                  <h6>Vuejs</h6>
+                </div>
+              <div class="col 1.5">
+                <a href="https://www.typescriptlang.org/" target="_blank">
+                  <img
+                    id="typescript-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-typescript-96.png"
+                  />
+                </a>
+                <h6>Typescript</h6>
               </div>
+              <div class="col 1.5">
+                <a href="https://angular.io/" target="_blank">
+                  <img
+                    id="angular-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-angularjs-96.png"
+                  />
+                </a>
+                <h6>Angular</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://html.com/" target="_blank">
+                  <img
+                    id="html5-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-html-5-96.png"
+                  />
+                </a>
+                <h6>HTML5</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+                  <img
+                    id="css-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-css3-96.png"
+                  />
+                </a> 
+                <h6>CSS3</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://www.postgresql.org/" target="_blank">
+                  <img
+                    id="postgreSQL-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-postgresql-96.png"
+                  />
+                </a>
+                <h6>PostgreSQL</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://getbootstrap.com/" target="_blank">
+                  <img
+                    id="bootstrap-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-bootstrap-96.png"
+                  />
+                </a>
+                <h6>Bootstrap</h6>
+              </div>
+            </div>
+            <div class="row justify-content-around center-block text-center">
+              <div class="col 1.5">
+                <a href="https://materializecss.com/" target="_blank">
+                  <img
+                    id="materialize-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/materialize.png"
+                    width="106"
+                  />
+                </a>
+                <h6>Materialize</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://git-scm.com/" target="_blank">
+                  <img
+                    id="git-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-git-96.png"
+                  />
+                </a>
+                <h6>Git</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://github.com/" target="_blank">
+                  <img
+                    id="github-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-github-96.png"
+                  />
+                </a>
+                <h6>Github</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://www.npmjs.com/" target="_blank">
+                  <img
+                    id="npm-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-npm-96.png"
+                  />
+                </a>
+                <h6>NPM</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://www.ruby-lang.org/en/" target="_blank"> 
+                  <img
+                    id="ruby-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-ruby-programming-language-96.png"
+                  />
+                </a>
+                <h6>Ruby</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://www.heroku.com" target="_blank"> 
+                  <img
+                    id="heroku-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/icons8-heroku-96.png"
+                  />
+                </a>
+                <h6>Heroku</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://rubyonrails.org/" target="_blank">
+                  <img
+                    id="rails-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/ruby-on-rails.jpeg"
+                    width="108"
+                  />
+                </a>
+                <h6>Ruby on Rails</h6>
+              </div>
+              <div class="col 1.5">
+                <a href="https://www.netlify.com/" target="_blank">
+                  <img
+                    id="netlify-logo"
+                    class="rounded-circle img-thumbnail"
+                    src="assets/img/netlify.png"
+                    width="108" 
+                  />  
+                </a>
+                <h6>Netlify</h6>
+              </div>
+            </div>
               <br>
               <br>
               <div class="section-title" >
@@ -213,43 +270,61 @@
                 <h4>Always learning new things</h4>
                  <br>
               </div>
-              <div class="row">
-                <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-                  <img
-                    id="C#"
-                    class="rounded-circle img-thumbnail"
-                    src="assets/img/icons8-c-sharp-logo-96.png"
-                  />
-                </a>
-                <a href="https://dotnet.microsoft.com/" target="_blank">
-                  <img
-                    id="net-logo"
-                    class="rounded-circle img-thumbnail"
-                    src="assets/img/dotnet.svg"
-                    width="110"
-                  />
-                </a>
-                <a href="https://reactjs.org/" target="_blank">
-                  <img
-                    id="react-logo"
-                    class="rounded-circle img-thumbnail"
-                    src="assets/img/icons8-react-96.png"
-                  />
-                </a>
-                <a href="https://www.python.org/" target="_blank">
-                  <img
-                    id="python-logo"
-                    class="rounded-circle img-thumbnail"
-                    src="assets/img/icons8-python-96.png"
-                  />
-                </a>
-                <a href="https://www.djangoproject.com/" target="_blank">
-                  <img
-                    id="django-logo"
-                    class="rounded-circle img-thumbnail"
-                    src="assets/img/icons8-django-96.png"
-                  />
-                </a>
+              <div class="row center-block text-center">
+                <div class="col 1.5">
+                  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+                    <img
+                      id="C#"
+                      class="rounded-circle img-thumbnail"
+                      src="assets/img/icons8-c-sharp-logo-96.png"
+                    />
+                  </a>
+                  <h6>C#</h6>
+                </div>
+                <div class="col 1.5">
+                  <a href="https://dotnet.microsoft.com/" target="_blank">
+                    <img
+                      id="net-logo"
+                      class="rounded-circle img-thumbnail"
+                      src="assets/img/dotnet.svg"
+                      width="110"
+                    />
+                  </a>
+                  <h6>.NET</h6>
+                </div>
+                <div class="col 1.5">
+                  <a href="https://reactjs.org/" target="_blank">
+                    <img
+                      id="react-logo"
+                      class="rounded-circle img-thumbnail"
+                      src="assets/img/icons8-react-96.png"
+                    />
+                  </a>
+                  <h6>React</h6>
+                </div>
+                <div class="col 1.5">
+                  <a href="https://www.python.org/" target="_blank">
+                    <img
+                      id="python-logo"
+                      class="rounded-circle img-thumbnail"
+                      src="assets/img/icons8-python-96.png"
+                    />
+                  </a>
+                  <h6>Python</h6>
+                </div>
+                <div class="col 1.5">
+                  <a href="https://www.djangoproject.com/" target="_blank">
+                    <img
+                      id="django-logo"
+                      class="rounded-circle img-thumbnail"
+                      src="assets/img/icons8-django-96.png"
+                    />
+                  </a>
+                  <h6>Django</h6>
+                </div>
+                <div class="col 1.5"></div>
+                <div class="col 1.5"></div>
+                <div class="col 1.5"></div>
             </div>
           </div>
         </div>  
@@ -266,8 +341,8 @@
           <h2 class="center">Projects</h2>
         </div>
           <h3>Bootrax Hiking App</h3>
-        <div class="row">
-            <div class="col-md-8">
+        <div class="row" >
+            <div class="col-md-8" id="project-pictures">
                 <img
                   src="assets/img/boottrax.png"  
                 />
@@ -306,7 +381,8 @@
         <div class="row">
             <div class="col-md-8">
                 <img
-                  src="assets/img/personal_site.png"  
+                  src="assets/img/personal_site.png"
+                    
                 />
             </div>
               <div class="col-md-4 ">
