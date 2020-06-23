@@ -97,7 +97,7 @@
 
           <div class="container">
             <div class="row  center-block text-center">
-                <div class="col 1.5">
+                <div class="col-1.5" >
                   <a href="https://www.javascript.com/" target="_blank">
                     <img
                       id="vue-logo"
@@ -107,17 +107,17 @@
                   </a>
                   <h6>Javascript</h6>
                 </div>
-                <div class="col 1.5">
+                <div class="col-1.5 ml-1">
                   <a href="https://vuejs.org/" target="_blank">
                     <img
-                      id="vue-logo"
+                      id="javascript-logo"
                       class="rounded-circle img-thumbnail"
                       src="assets/img/icons8-vue-js-96.png"
                     />
                   </a>
                   <h6>Vuejs</h6>
                 </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://www.typescriptlang.org/" target="_blank">
                   <img
                     id="typescript-logo"
@@ -127,7 +127,7 @@
                 </a>
                 <h6>Typescript</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://angular.io/" target="_blank">
                   <img
                     id="angular-logo"
@@ -137,7 +137,7 @@
                 </a>
                 <h6>Angular</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://html.com/" target="_blank">
                   <img
                     id="html5-logo"
@@ -147,7 +147,7 @@
                 </a>
                 <h6>HTML5</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
                   <img
                     id="css-logo"
@@ -157,7 +157,7 @@
                 </a> 
                 <h6>CSS3</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://www.postgresql.org/" target="_blank">
                   <img
                     id="postgreSQL-logo"
@@ -167,7 +167,7 @@
                 </a>
                 <h6>PostgreSQL</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://getbootstrap.com/" target="_blank">
                   <img
                     id="bootstrap-logo"
@@ -177,9 +177,8 @@
                 </a>
                 <h6>Bootstrap</h6>
               </div>
-            </div>
-            <div class="row justify-content-around center-block text-center">
-              <div class="col 1.5">
+
+              <div class="col-1.5 ml-1">
                 <a href="https://www.ruby-lang.org/en/" target="_blank"> 
                   <img
                     id="ruby-logo"
@@ -189,7 +188,7 @@
                 </a>
                 <h6>Ruby</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://rubyonrails.org/" target="_blank">
                   <img
                     id="rails-logo"
@@ -200,7 +199,7 @@
                 </a>
                 <h6>Ruby on Rails</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://materializecss.com/" target="_blank">
                   <img
                     id="materialize-logo"
@@ -211,7 +210,7 @@
                 </a>
                 <h6>Materialize</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://git-scm.com/" target="_blank">
                   <img
                     id="git-logo"
@@ -221,7 +220,7 @@
                 </a>
                 <h6>Git</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://github.com/" target="_blank">
                   <img
                     id="github-logo"
@@ -231,7 +230,7 @@
                 </a>
                 <h6>Github</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://www.npmjs.com/" target="_blank">
                   <img
                     id="npm-logo"
@@ -241,7 +240,7 @@
                 </a>
                 <h6>NPM</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://www.heroku.com" target="_blank"> 
                   <img
                     id="heroku-logo"
@@ -251,7 +250,7 @@
                 </a>
                 <h6>Heroku</h6>
               </div>
-              <div class="col 1.5">
+              <div class="col-1.5 ml-1">
                 <a href="https://www.netlify.com/" target="_blank">
                   <img
                     id="netlify-logo"
@@ -262,9 +261,7 @@
                 </a>
                 <h6>Netlify</h6>
               </div>
-              </div>
-              <div class="row justify-content-around center-block text-center">
-                <div class="col 1.5">
+                <div class="col-1.5 ml-1">
                 <a href="https://www.heroku.com" target="_blank"> 
                   <img
                     id="heroku-logo"
@@ -275,15 +272,17 @@
                 <h6>Sass</h6>
                 </div>
               </div>
-              <br>
-              <br>
-              <div class="section-title" >
+            </div>
+            <div class="container">
+              <div class="section-title" id="adding-soon" >
                 <h2>Adding Soon</h2>
                 <h4>Always learning new things</h4>
                  <br>
               </div>
+            </div>
+              <div class="container">
               <div class="row center-block text-center">
-                <div class="col 1.5">
+                <div class="col-1.5 ">
                   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
                     <img
                       id="C#"
@@ -293,7 +292,7 @@
                   </a>
                   <h6>C#</h6>
                 </div>
-                <div class="col 1.5">
+                <div class="col-1.5 ml-1">
                   <a href="https://dotnet.microsoft.com/" target="_blank">
                     <img
                       id="net-logo"
@@ -304,7 +303,7 @@
                   </a>
                   <h6>.NET</h6>
                 </div>
-                <div class="col 1.5">
+                <div class="col-1.5 ml-1">
                   <a href="https://reactjs.org/" target="_blank">
                     <img
                       id="react-logo"
@@ -314,7 +313,7 @@
                   </a>
                   <h6>React</h6>
                 </div>
-                <div class="col 1.5">
+                <div class="col-1.5 ml-1">
                   <a href="https://www.python.org/" target="_blank">
                     <img
                       id="python-logo"
@@ -324,7 +323,7 @@
                   </a>
                   <h6>Python</h6>
                 </div>
-                <div class="col 1.5">
+                <div class="col-1.5 ml-1">
                   <a href="https://www.djangoproject.com/" target="_blank">
                     <img
                       id="django-logo"
@@ -334,11 +333,8 @@
                   </a>
                   <h6>Django</h6>
                 </div>
-                <div class="col 1.5"></div>
-                <div class="col 1.5"></div>
-                <div class="col 1.5"></div>
+              </div>
             </div>
-          </div>
         </div>  
       </div>
     </section><!-- End Skills Section -->
