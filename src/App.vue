@@ -363,7 +363,6 @@
                   <img class="img-stack" src="assets/img/icons8-vue-js-48.png"  />
                   <img class="img-stack" src="assets/img/icons8-css3-48.png"  />
                   <img class="img-stack" src="assets/img/icons8-html-5-48.png"  />
-                  <img class="img-stack" src="assets/img/icons8-javascript-48.png"  />
                   <img class="img-stack" src="assets/img/icons8-bootstrap-48.png"  />
                   <img class="img-stack" src="assets/img/icons8-postgresql-48.png"  />
                 </div>
@@ -376,6 +375,7 @@
                   GitHub frontend 
                   </a>
                 
+                <br>
                 <br>
                   <a href="https://github.com/cranderson9/Capstone-BootTrax"  class="badge badge-danger">
                   GitHub backend
@@ -401,7 +401,6 @@
                   <img class="img-stack" src="assets/img/icons8-vue-js-48.png"  />
                   <img class="img-stack" src="assets/img/icons8-css3-48.png"  />
                   <img class="img-stack" src="assets/img/icons8-html-5-48.png"  />
-                  <img class="img-stack" src="assets/img/icons8-javascript-48.png"  />
                   <img class="img-stack" src="assets/img/icons8-bootstrap-48.png"  />
                   <img class="img-stack" width="45" height="45" src="assets/img/netlify.png"  />
                 </div>
@@ -437,6 +436,39 @@
                 </div>
                 <a href="https://github.com/cranderson9/mini_capstone"  class="badge badge-danger">
                 GitHub
+                </a>
+              </div>
+        </div>
+        <br>
+        <hr/>
+        <br>
+        <h3>Photograpgy Website</h3>
+        <div class="row">
+            <div class="col-md-8">
+                <img
+                  src="assets/img/somnium_creative.png"  
+                />
+            </div>
+              <div class="col-md-4 ">
+                <div class="description">
+                  <h4 class="info-title text-danger">Tech Stack</h4>
+                  <img class="img-stack" src="assets/img/icons8-sass-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-bootstrap-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-css3-48.png"  />
+                  <img class="img-stack" src="assets/img/icons8-html-5-48.png"  />
+                  <img class="img-stack" width="45" height="45" src="assets/img/netlify.png"  />
+                </div>
+                <div class="description">
+                  <h4 class="info-title text-info">Features</h4>
+                  <p>Photography portfolio site with Javascript transitions and picture galleries.</p>
+                </div>
+                <a href="https://github.com/cranderson9/sominum_creative"  class="badge badge-danger">
+                GitHub
+                </a>
+                <br>
+                <br>
+                <a href="https://somniumcreative.netlify.app/"  class="badge badge-danger">
+                Live Site
                 </a>
               </div>
         </div>
